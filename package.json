@@ -1,0 +1,16 @@
+{
+  "name": "1.0.0",
+  "version": "1.5.6",
+  "description": "Responsive langing page of shopify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "tailwind",
+    "css"
+  ],
+  "author": "Pritam Pal",
+  "license": "ISC"
+}
