@@ -19,7 +19,7 @@ Screen Sizes
 - VSCode for coding
 - Personal Learnings in this project 
     - TailwindCSS
-- Deployed on *Vercel*  **[ClickMe]()** 
+- Deployed on *Netlify*  **[ClickMe](https://shopify-clone-yo.netlify.app/)** 
 *** 
 #### About Author
 ![AuthorImage](./circle-profile-pic.png)
